@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/aledavila/changeset-demo",
   "workspaces": [
     "packages/*"
   ],
